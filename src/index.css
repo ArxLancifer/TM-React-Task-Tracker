@@ -75,9 +75,9 @@
   }
   
   .form-control input {
-    width: 100%;
+    display: block;
+    width: 90%;
     height: 40px;
-    margin: 5px;
     padding: 3px 7px;
     font-size: 17px;
   }
@@ -157,3 +157,4 @@
     height: 12.5px;
     box-shadow: inset 2.4px -0.8px 0 0px #414043;
   }
+
